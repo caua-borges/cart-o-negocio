@@ -1,2 +1,2 @@
-# cart-o-negocio
+# cartao-negocio
 Um simples cartão web contendo informações.
